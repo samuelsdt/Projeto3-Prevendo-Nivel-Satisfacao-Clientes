@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo apresentar uma solução para a competição da Kaggle: Santander Customer Satisfaction, disponível em https://www.kaggle.com/c/santander-customer-satisfaction.
 
-Nessa solução será utilizada linguagem Python, os datasets estão disponíveis em https://www.kaggle.com/c/santander-customer-satisfaction/data, os scripts são os seguintes:
+Solução em linguagem Python, os datasets estão disponíveis em https://www.kaggle.com/c/santander-customer-satisfaction/data, os scripts são os seguintes:
 
 01-explorando_dataset: script com análises, limpeza e transformação dos dados para aplicação de machine learning.
 
